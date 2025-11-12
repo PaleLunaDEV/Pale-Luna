@@ -13,8 +13,6 @@ Prepare-se para reviver o terror de Pale Luna em uma nova versão do JavaScript!
 
 ## Pale Luna DEV.
 
------------------------------------------------
-
 # English:
 Get ready to relive the terror of Pale Luna in a new version of JavaScript!
 
