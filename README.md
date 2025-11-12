@@ -1,4 +1,4 @@
-# Pale Luna: Terminal Edition
+# Pale Luna
 
 # Brazilian Portuguese:
 Prepare-se para reviver o terror de Pale Luna em uma nova versão do JavaScript!
@@ -11,7 +11,7 @@ Prepare-se para reviver o terror de Pale Luna em uma nova versão do JavaScript!
 - Instale ou extraia o o jogo;
 - Pronto.
 
-## Feito pela 2-12 Studio.
+## Pale Luna DEV.
 
 -----------------------------------------------
 
@@ -26,4 +26,4 @@ Get ready to relive the terror of Pale Luna in a new version of JavaScript!
 - Install or extract the game;
 - Done.
 
-## Made by 2-12 Studio.
+## Pale Luna DEV.
