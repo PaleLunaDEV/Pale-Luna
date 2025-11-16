@@ -1,3 +1,0 @@
-[NAME]: Lukz
-[PASSWORD]: 123
-[LANGUAGE]: English
