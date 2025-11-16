@@ -1,4 +1,5 @@
 # Pale Luna: Echoes Of The Night
+![Pale_Luna](a.png)
 
 ### Brazilian Portuguese:
 Prepare-se para reviver o terror de Pale Luna em uma nova versão do JavaScript!
