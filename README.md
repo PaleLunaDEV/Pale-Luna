@@ -1,9 +1,9 @@
-# Pale Luna
+## Pale Luna: Echoes Of The Night
 
 # Brazilian Portuguese:
 Prepare-se para reviver o terror de Pale Luna em uma nova versão do JavaScript!
 
-## Instalação
+# Instalação
 
 - Acesse o itch.io;
 - Vá na ultima versão mostrada nas opções de download;
@@ -11,12 +11,12 @@ Prepare-se para reviver o terror de Pale Luna em uma nova versão do JavaScript!
 - Instale ou extraia o o jogo;
 - Pronto.
 
-## Pale Luna DEV.
+#Pale Luna DEV.
 
 # English:
 Get ready to relive the terror of Pale Luna in a new version of JavaScript!
 
-## Installation
+# Installation
 
 - Access itch.io;
 - Select the latest version shown in the download options;
@@ -24,4 +24,4 @@ Get ready to relive the terror of Pale Luna in a new version of JavaScript!
 - Install or extract the game;
 - Done.
 
-## Pale Luna DEV.
+# Pale Luna DEV.
